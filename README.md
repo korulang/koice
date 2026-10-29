@@ -30,13 +30,11 @@ cactus-needle `needle` package), place `whistle.cact` under
 
     cd koice/app && koruc run koice.k
 
-## Controls
+## Permissions
 
-- **Ctrl+Option+Period** (hold) — dictate: pill appears, bar tracks your voice; release pastes the transcript.
-- **Ctrl+Option+Q** — quit.
-
-Needs microphone permission; paste (synthetic Cmd+V) needs an
-Accessibility/Input Monitoring grant for your terminal.
+Microphone for capture; Accessibility/Input Monitoring for the
+synthetic Cmd+V paste. The hotkey chord, model path, and language are
+config — the shipped defaults are just defaults.
 
 ## How it works
 
