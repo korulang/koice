@@ -13,7 +13,7 @@ No Electron, no Python, no runtime — the product is the toolchain's showcase.
 | Language | [koru](https://github.com/korulang/koru) (`koruc`) |
 | Platform | [oshun](https://github.com/korulang/oshun) — AppKit, Carbon hotkeys, Metal overlay, CoreAudio, NSPasteboard |
 | Inference | [koru-libs](https://github.com/korulang/koru-libs) `needle` — FFI to `libneedle.dylib` (C ABI) |
-| Model | [cactus-needle](https://crates.io) Whistle weights (`~/.cache/cactus-needle/whistle/2.0.0/whistle.cact`) |
+| Model | [cactus-needle](https://github.com/cactus-compute) Whistle weights (`~/.cache/cactus-needle/whistle/2.0.0/whistle.cact`) |
 
 ## Build
 
