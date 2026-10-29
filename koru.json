@@ -1,0 +1,10 @@
+{
+  "name": "koice",
+  "version": "0.1.0",
+  "description": "KOICE — native macOS dictation, in Koru. Hold a key, talk, text lands.",
+  "paths": {
+    "std": "../koru/koru_std",
+    "libs": "../oshun",
+    "koru": "../koru-libs"
+  }
+}

@@ -1,0 +1,16 @@
+app/a.out
+app/build_output.zig
+app/build_backend.zig
+app/build.zig
+app/output_emitted.zig
+app/.zig-cache
+**/.zig-cache/
+**/*.o
+**/output_emitted.zig
+**/program.ast.json
+**/zig-out/
+**/build_*.zig
+**/build.zig
+**/backend*.zig
+**/compiler_env.json
+**/program.ast.json
