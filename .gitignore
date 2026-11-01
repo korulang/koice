@@ -14,3 +14,4 @@ app/.zig-cache
 **/backend*.zig
 **/compiler_env.json
 **/program.ast.json
+app/KOICE.app/
